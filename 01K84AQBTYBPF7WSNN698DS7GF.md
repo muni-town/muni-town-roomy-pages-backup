@@ -26,6 +26,10 @@ Without intentional kindness our systems will be neutral, and neutral systems ar
 
 * * *
 
+We can add sections. This is a pretty nice rich text editor that isn’t getting in my way.
+
+* * *
+
 **Where work takes place: Distributed**
 
 Geographical locality is of little importance.
