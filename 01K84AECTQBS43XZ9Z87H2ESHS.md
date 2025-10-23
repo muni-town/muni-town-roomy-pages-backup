@@ -33,3 +33,7 @@ And we also have quotes:
 > The only thing to quote is quote itself.
 
 Try pasting in a whole article from another website! The editor is pretty good at converting things.
+
+### Automatic Git Backup
+
+There is a service running that automatically backs up all of these pages to a [git repo](https://github.com/muni-town/muni-town-roomy-pages-backup), too!
