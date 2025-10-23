@@ -1,8 +1,6 @@
 **ATProto Isn't What You Think**
 ================================
 
-This post takes a look at ATProto from a different angle, and explores the value of some possibly less-noticed pieces of it.
-
 This post is about [ATProto](https://atproto.com/), [Bluesky](https://bsky.social/), and to a certain extent [All The](https://docs.bsky.app/showcase) [Other](https://blueskydirectory.com/) [ATProto  
 Apps](https://cred.blue/resources). I want to take the opportunity to look at things from a different angle and share how my view of ATProto has changed over time.
 
